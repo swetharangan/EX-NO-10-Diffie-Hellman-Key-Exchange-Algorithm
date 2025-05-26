@@ -1,10 +1,5 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
 
-
-## NAME:Mohammed Faizal J
-## REG NO:212222100027
-
-
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
